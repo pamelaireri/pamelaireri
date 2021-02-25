@@ -1,6 +1,6 @@
 
 ## About
-Three Years of Project Management experience and Technology Consulting serving Fortune 500 customers. I just completed my Computer Science Degree in the Fall of 2019. I love developing products, writing code, creating web and mobile applications, and working with technology.
+I have three Years of Project Management and Technology Consulting experience serving Fortune 500 customers. I completed my Computer Science Degree in the Fall of 2019. I love developing products, writing code, creating web and mobile applications, and working with technology.
 
 In my past roles, I have excelled at project management, dealing with customized product development. As the project leader, I have handled everything from the beginning through completion. I worked closely with the developers providing statement-of-work, direction, guidance, training, and defined code requirements. I find it rewarding to see a vision come to life.
 
