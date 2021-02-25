@@ -15,9 +15,9 @@ If you have a job I should consider, email me: pamelaireri@gmail.com.
  - C/C++, Java, Python, MySQL, JS, HTML5
 
 ## Education
- - Bachelor of Science - BS - Fall of 2019 Graduate, Computer Science - Software Engineering
+Bachelor of Science - BS - Fall of 2019 Graduate, Computer Science - Software Engineering
  
-## I am currently working 
+## I am currently working on 
  - TriWellness cloud application 
    
 ## I am currently learning
