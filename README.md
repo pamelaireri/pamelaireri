@@ -1,4 +1,3 @@
-
 ## About
 Fall 2019 Computer Science graduate with three years of Project Management and Technology Consulting experience serving Fortune 500 customers. I love developing products, writing code, creating web and mobile applications, and working with technology. 
 
@@ -16,20 +15,20 @@ If you have a job I should consider, email me: pamelaireri@gmail.com.
  - C/C++, Java, Python, MySQL, JS, HTML5
 
 ## Education
- - Bachelor of Science - BS - Fall of 2019 Graduate, Computer Science - Software Engieering
+ - Bachelor of Science - BS - Fall of 2019 Graduate, Computer Science - Software Engineering
  
 ## I am currently working 
- - Triwellness cloud application 
+ - TriWellness cloud application 
    
 ## I am currently learning
    
  - coursera: IBM Full Stack Cloud Developer Professional Certificate
       link: https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer#courses
-      anticipated completion date: 4, 26, 2021
+      anticipated completion date: 4/2021
       
  - coursera: Real-World Product Management
       link: https://www.coursera.org/specializations/real-world-product-management
-      anticipated completion date: 4, 26, 2021
-      
+      anticipated completion date: 4/2021
+
 
 
