@@ -3,8 +3,9 @@ Fall 2019 Computer Science graduate with three years of Project Management and T
 
 In my past roles, I have excelled at project management, dealing with customized product development. As the project leader, I have handled everything from beginning to end during the software development life cycle. I worked closely with the developers providing statement-of-work, direction, guidance, training, and defined code requirements. I find it rewarding to see a vision come to life.
 
-Currently, I seek a role that combines my software engineering competencies and customer-centric obsession with project management. I am fascinated by AI, Machine Learning, and IoT. I can easily relocate or do remote work. 
+Currently, I seek a role that combines my software engineering competencies and customer-centric obsession with project management. I am fascinated by AI, Machine Learning, and IoT. 
 
+I can easily relocate or do remote work. 
 If you have a job I should consider, email me: pamelaireri@gmail.com.
 
 ## Skills
