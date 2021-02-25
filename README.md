@@ -1,18 +1,12 @@
- # url: https://www.linkedin.com/in/pamelaireri/
-
-#skills:
+# skills:
  - Machine Learning
  - Cloud Applications
  - Python
 
-#education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2019
-   subject: Computer Science with specialization in Software Engineering 
-   school: University of Dallas at Texas
-
-
-#i'm currently taking the following courses on coursera:
+# education:
+ - Bachelor of Science - BS - Fall of 2019 Graduate, Computer Science - Software Engieering, Machine Learning, Artificail Intelligence. 
+   
+# i'm currently taking the following courses on coursera:
    
     - title: IBM Full Stack Cloud Developer Professional Certificate
       link: https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer#courses
