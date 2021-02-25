@@ -1,6 +1,4 @@
- #contact:
-   - title: LinkedIn
-   url: https://www.linkedin.com/in/pamelaireri/
+ # url: https://www.linkedin.com/in/pamelaireri/
 
 #skills:
  - Machine Learning
