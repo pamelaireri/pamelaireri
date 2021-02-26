@@ -10,6 +10,7 @@ Currently, I seek a role that combines my software engineering competencies and 
  - Machine Learning
  - Cloud Development
  - Product Development
+ - Project Management
  - C/C++, Java, Python, MySQL, JS, HTML5
 
 ## Education
