@@ -3,7 +3,7 @@ Fall 2019 Computer Science graduate with three years of Project Management and T
 
 In my past roles, I have excelled at project management, dealing with customized product development. As a project leader, I have handled everything from beginning to end during the software development life cycle. In addition to working closely with the developers providing statement-of-work, direction, guidance, training, and defined code requirements. I find it rewarding to see a vision come to life.
 
-Currently, I seek a role that combines my software engineering competencies and customer-centric obsession with product development. I am looking to assist companies with their transformation and cloud adoption journey. Feel free to ask me anything related to AI, Machine Learning, and Cloud Technology. If you have a job I should consider, email me: pamelaireri@gmail.com.
+Currently, I seek a role that combines my software engineering competencies and customer-centric obsession with product development. Feel free to ask me anything related to AI, Machine Learning, Software Development, or Cloud Technology. If you have a job I should consider, email me: pamelaireri@gmail.com.
 
 ## Skills
  - Software Development 
