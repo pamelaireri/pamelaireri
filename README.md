@@ -5,13 +5,16 @@ In my past roles, I have excelled at project management, dealing with customized
 
 Currently, I seek a role that combines my software engineering competencies and customer-centric obsession with product development. Feel free to ask me anything related to AI, Machine Learning, Software Development, or Cloud Technology. If you have a job I should consider, email me: pamelaireri@gmail.com.
 
-## Skills
- - Software Development 
- - Machine Learning
- - Cloud Development
- - Product Development
- - Project Management
- - C/C++, Java, Python, MySQL, JS, HTML5
+## Areas of Expertise:
+Software Development
+Machine Learning
+Cloud Development
+Product Development
+Product Management
+Project Management
+Agile SDLC
+User Experience
+C/C++, Python, MySQL, JS, HTML5, CSS 
 
 ## Education
 Bachelor of Science - BS - Fall of 2019 Graduate, Computer Science - Software Engineering
