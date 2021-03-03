@@ -1,5 +1,5 @@
 ## About
-Project Manager and Technology Consultant with three years of experience serving Fortune 500 companies. I love developing products, writing code, creating web and mobile applications, and working with technology. 
+Project Manager with three years of experience serving Fortune 500 companies. 
 
 In my past roles, I have excelled at project management, dealing with customized product development. As a project leader, I have handled everything from beginning to end during the software development life cycle. In addition to working closely with the developers providing statement-of-work, direction, guidance, training, and defined code requirements. I find it rewarding to see a vision come to life.
 
