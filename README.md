@@ -1,20 +1,22 @@
 ## About
-Project Manager with three years of experience serving Fortune 500 companies. 
+Program and Project Manager with 3 years of experience serving Fortune 500 companies.
 
-In my past roles, I have excelled at project management, dealing with customized product development. As a project leader, I have handled everything from beginning to end during the software development life cycle. In addition to working closely with the developers providing statement-of-work, direction, guidance, training, and defined code requirements. I find it rewarding to see a vision come to life.
+I have excelled at program and project management in my past roles, dealing with customized product development. As a project leader, I have collaborated with cross-functional teams from beginning to end during the software development life cycle. In addition to providing statement-of-work, direction, guidance, training, conflict resolution, and defined code requirements. I find it rewarding to help teams adopt emerging technology, resolve development issues, and deliver projects on time within budget.
 
-Currently, I seek a role that combines my software engineering competencies and customer-centric obsession with product development. If you have a job I should consider, email me: pamelaireri@gmail.com.
+Currently, I seek a role that combines my software engineering competencies and customer-centric obsession with product development. If you have an opportunity or would like to cross collaborate, email me: pamelaireri@gmail.com.
 
 ## Areas of Expertise:
 - Software Development
 - Machine Learning
-- Cloud Development
+- Cloud Migration
 - Product Development
 - Product Management
+- Program Management
 - Project Management
 - Agile SDLC
+- Waterfall SDLC
 - User Experience
-- C/C++, Python, MySQL, JS, HTML5, CSS 
+- C/C++, Python, MySQL, NoSQL, JS, HTML5, CSS 
 
 ## Education
 Bachelor of Science - BS - Fall of 2019 Graduate, Computer Science - Software Engineering
