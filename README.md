@@ -8,6 +8,7 @@ Currently, I seek a role that combines my software engineering competencies and 
 ## Areas of Expertise:
 - Software Development
 - Machine Learning
+- Cloud Development 
 - Cloud Migration
 - Product Development
 - Product Management
