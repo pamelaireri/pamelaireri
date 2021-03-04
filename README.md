@@ -1,7 +1,7 @@
 ## About
-Program and Project Manager with 3 years of experience serving Fortune 500 companies.
+Program and Project Manager with 3 years of experience serving Fortune 500 companies. 
 
-I have excelled at program and project management in my past roles, dealing with customized product development. As a project leader, I have collaborated with cross-functional teams from beginning to end during the software development life cycle. In addition to providing statement-of-work, direction, guidance, training, conflict resolution, and defined code requirements. I find it rewarding to help teams adopt emerging technology, resolve development issues, and deliver projects on time within budget.
+I have excelled at program and project management in my past roles, dealing with customized product development. As a project leader, I have collaborated with cross-functional teams from beginning to end during the software development life cycle. In addition to providing development teams with statement-of-work, direction, guidance, training, conflict resolution, and defined code requirements. I find it rewarding to help teams adopt emerging technology, improve transparency, increase productivity, resolve development issues, and deliver projects on time within budget. 
 
 Currently, I seek a role that combines my software engineering competencies and customer-centric obsession with product development. If you have an opportunity or would like to cross collaborate, email me: pamelaireri@gmail.com.
 
