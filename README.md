@@ -10,6 +10,7 @@ Currently, seeking a role that combines my software engineering competencies and
 - Machine Learning
 - Cloud Development 
 - Cloud Migration
+- Cloud Security
 - Product Development
 - Product Management
 - Program Management
