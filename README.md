@@ -1,5 +1,5 @@
 ## About
-Fall 2019 Software Engineering Grad with 3 years of Program and Project Management experience serving Fortune 500 companies. 
+Fall 2019 Software Engineering Grad with 2 years of Program and Project Management experience serving Fortune 500 companies. 
 
 I have excelled at program and project management in my past roles, dealing with customized product development. As a project leader, I have collaborated with cross-functional teams from beginning to end during the software development life cycle. In addition to providing development teams with statement-of-work, direction, guidance, training, conflict resolution, and defined code requirements. I find it rewarding to help teams adopt emerging technology, improve transparency, increase productivity, resolve development issues, and deliver projects on time within budget. 
 
@@ -30,11 +30,17 @@ Bachelor of Science - BS - Fall of 2019 Graduate, Computer Science - Software En
    
  - coursera: IBM Full Stack Cloud Developer Professional Certificate
       link: https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer#courses
-      anticipated completion date: 4/2021
+      anticipated completion date: 6/2021
       
  - coursera: Real-World Product Management
       link: https://www.coursera.org/specializations/real-world-product-management
-      anticipated completion date: 4/2021
+      anticipated completion date: 6/2021
+    
+ - coursera: Google Project Management
+      link: https://www.coursera.org/professional-certificates/google-project-management
+      anticipated completion date: 6/2021
+
+
 
 
 
