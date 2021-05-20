@@ -40,7 +40,7 @@ Bachelor of Science - BS - Fall of 2019 Graduate, Computer Science - Software En
       link: https://www.coursera.org/professional-certificates/google-project-management
       anticipated completion date: 6/2021
       
-- project Management Institute: Certified Associate in Project Management
+- project management institute: Certified Associate in Project Management
   link: https://www.pmi.org/certifications/certified-associate-capm
   anticipated completion date: 6/2021
 
