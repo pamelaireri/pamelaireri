@@ -7,7 +7,7 @@ If you have an opportunity or would like to cross collaborate, email me: pamelai
 
 ## Areas of Expertise:
 - Software Development
-- Machine Learning
+- AI/Machine Learning
 - Product Management
 - Project Management
 - Agile SDLC
