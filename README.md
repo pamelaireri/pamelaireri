@@ -12,7 +12,7 @@ If you have an opportunity or would like to cross collaborate, email me: pamelai
 - Project Management
 - Agile SDLC
 - Waterfall SDLC
-- C/C++, Python, MySQL, NoSQL, JS, HTML5, CSS 
+
 
 ## Education
 Bachelor of Science - BS - Fall of 2019 Graduate, Computer Science - Software Engineering
