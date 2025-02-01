@@ -1,5 +1,5 @@
 ## About
-Digital Product manager with over 2 years of project Management related experience serving Fortune 500 companies. 
+Digital Product manager with over 3 years of project Management related experience serving Fortune 500 companies. 
 
 I find it rewarding to help teams adopt emerging technology, improve transparency, increase productivity, resolve development issues, and deliver projects on time within budget. 
 
