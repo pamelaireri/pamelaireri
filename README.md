@@ -16,8 +16,11 @@ If you have an opportunity or would like to cross collaborate, email me: pamelai
 
 ## Education
 SMU Cox School of Business
-Masters of Business Administration - MBA - Fall 2026 Graduate
+
+Masters of Business Administration - MBA - Expected Gratduation: Fall 2026
+
 University of Texas at Dallas
-Bachelor of Science - BS - Fall of 2019 Graduate, Computer Science - Software Engineering
+
+Bachelor of Science - BS - Computer Science - Software Engineering
 
  
