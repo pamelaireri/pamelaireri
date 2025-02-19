@@ -15,14 +15,19 @@ If you have an opportunity or would like to cross collaborate, email me: pamelai
 
 
 ## Education
+
 **SMU Cox School of Business**
 
-Masters of Business Administration - MBA 
+MBA, Master of Business Administration
 
-Expected Graduation Date: Fall 2026
+Dallas, TX | Expected Completion: 08/2026
 
 **University of Texas at Dallas**
 
-Bachelor of Science - BS - Computer Science - Software Engineering
+BS, Computer Science, Software Engineering
+
+Richardson, TX | 08/2016 – 08/2019
+
+
 
  
