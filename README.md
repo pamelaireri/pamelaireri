@@ -18,7 +18,7 @@ If you have an opportunity or would like to cross collaborate, email me: pamelai
 
 **SMU Cox School of Business**
 
-MBA, Master of Business Administration
+MBA, Business Management & Strategy
 
 Dallas, TX | Expected Completion: 08/2026
 
